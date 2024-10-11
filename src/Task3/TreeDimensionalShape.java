@@ -1,4 +1,4 @@
 package Task3;
 
-abstract class TreeDimensionalShape {
+abstract class TreeDimensionalShape extends Shape{
 }
